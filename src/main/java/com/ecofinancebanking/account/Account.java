@@ -1,4 +1,4 @@
-package main.java.com.ecofinancebanking.account;
+package com.ecofinancebanking.account;
 
 public class Account {
     private String accountId;
@@ -50,5 +50,10 @@ public class Account {
             return true;
         }
         return false;
+    }
+
+    public Object getType() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getType'");
     }
 }

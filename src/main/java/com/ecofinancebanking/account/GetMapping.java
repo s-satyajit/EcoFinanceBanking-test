@@ -1,4 +1,4 @@
-package main.java.com.ecofinancebanking.account;
+package com.ecofinancebanking.account;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

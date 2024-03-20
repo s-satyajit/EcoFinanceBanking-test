@@ -1,4 +1,4 @@
-package main.java.com.ecofinancebanking.account;
+package com.ecofinancebanking.account;
 
 public class AccountService {
     // This class would interact with your database or data source
