@@ -7,7 +7,7 @@ public class ATMService {
 
     private AccountService accountService;
 
-    public ATMService(AccountService accountService) 
+    public ATMService(AccountService accountService) {
         this.accountService = accountService;
     }
 
